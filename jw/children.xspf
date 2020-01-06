@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>Hazte amigo de Jehová</title>
+			<location>https://85juanzz.github.io/jw/children/becomeJehovah'sFriend.xspf</location>
+			<image>https://assetsnffrgf-a.akamaihd.net/themes/content-theme/images/btn_bjfVideo.png</image>
+		</track>
+		<track>
+			<title>Canciones</title>
+			<location>https://85juanzz.github.io/jw/children/songs.xspf</location>
+			<image>https://assetsnffrgf-a.akamaihd.net/themes/content-theme/images/btn_bjfMusic.png</image>
+		</track>
+		<track>
+			<title>La pizarra animada</title>
+			<location>https://85juanzz.github.io/jw/children/whiteboardAnimations.xspf</location>
+			<image>https://image.freepik.com/foto-gratis/pizarra-vintage-o-pizarra-escolar_126745-433.jpg</image>
+		</track>
+	</trackList>
+</playlist>
