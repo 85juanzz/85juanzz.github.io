@@ -2,6 +2,16 @@
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
 	<trackList>
 		<track>
+			<title>mar 2020</title>
+			<location>https://download-a.akamaihd.net/files/media_periodical/50/jwb_S_202003_01_r720P.mp4</location>
+			<image>https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/202003/art/jwb_univ_202003_lss_01_lg.jpg</image>
+		</track>
+		<track>
+			<title>feb 2020</title>
+			<location>https://download-a.akamaihd.net/files/media_periodical/ac/jwb_S_202002_01_r720P.mp4</location>
+			<image>https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/202002/art/jwb_univ_202002_lss_01_lg.jpg</image>
+		</track>
+		<track>
 			<title>ene 2020</title>
 			<location>https://download-a.akamaihd.net/files/media_periodical/e0/jwb_S_202001_01_r720P.mp4</location>
 			<image>https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/202001/art/jwb_univ_202001_lss_01_lg.jpg</image>
