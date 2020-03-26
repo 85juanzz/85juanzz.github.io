@@ -2,6 +2,16 @@
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
 	<trackList>
 		<track>
+			<title>Sé bueno y obediente</title>
+			<location>https://download-a.akamaihd.net/files/media_publication/ca/pkon_S_017_r720P.mp4</location>
+			<image>https://assetsnffrgf-a.akamaihd.net/assets/m/501800004/univ/art/501800004_univ_lss_lg.jpg</image>
+		</track>
+		<track>
+			<title>Voy a buscar a los amigos de la paz</title>
+			<location>https://download-a.akamaihd.net/files/media_publication/6b/pksjj_S_058_r720P.mp4</location>
+			<image>https://assetsnffrgf-a.akamaihd.net/assets/m/501900101/univ/art/501900101_univ_lss_lg.jpg</image>
+		</track>
+		<track>
 			<title>Somos David y Jonatán</title>
 			<location>https://download-a.akamaihd.net/files/media_publication/ce/pkon_S_016_r720P.mp4</location>
 			<image>https://assetsnffrgf-a.akamaihd.net/assets/m/501800000/univ/art/501800000_univ_lss_lg.jpg</image>
